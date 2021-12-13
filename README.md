@@ -50,7 +50,7 @@ cnt= 0.246 X yr - 0.083 X holiday - 0.198 X Spring - 0.321 X Light snow - 0.090 
 
 
 ## Contact
-Created by [@NageshVashst] - feel free to contact me!
+Created by [@NageshVashist] - feel free to contact me!
 
 
 <!-- Optional -->
