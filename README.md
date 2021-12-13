@@ -30,7 +30,7 @@ Business Goal: You are required to model the demand for shared bikes with the av
 ## Conclusions
 
 We have validated all the columns, we have found that model lm21 is best
-
+cnt= 0.246 X yr - 0.083 X holiday - 0.198 X Spring - 0.321 X Light snow - 0.090 X Mis +0.063 X 3 + 0.123 X 5 +0.148 X 6 +0.153 X 8 + 0.193 X 9 -0.049 X Sunday + 0.126 X 7 + 0.116 X 10
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
